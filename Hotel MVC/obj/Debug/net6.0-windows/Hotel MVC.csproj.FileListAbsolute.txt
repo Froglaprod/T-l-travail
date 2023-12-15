@@ -1,0 +1,17 @@
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\bin\Debug\net6.0-windows\Hotel MVC.exe
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\bin\Debug\net6.0-windows\Hotel MVC.deps.json
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\bin\Debug\net6.0-windows\Hotel MVC.runtimeconfig.json
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\bin\Debug\net6.0-windows\Hotel MVC.dll
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\bin\Debug\net6.0-windows\Hotel MVC.pdb
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\obj\Debug\net6.0-windows\Hotel MVC.csproj.AssemblyReference.cache
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\obj\Debug\net6.0-windows\Hotel_MVC.Form1.resources
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\obj\Debug\net6.0-windows\Hotel MVC.csproj.GenerateResource.cache
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\obj\Debug\net6.0-windows\Hotel MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\obj\Debug\net6.0-windows\Hotel MVC.AssemblyInfoInputs.cache
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\obj\Debug\net6.0-windows\Hotel MVC.AssemblyInfo.cs
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\obj\Debug\net6.0-windows\Hotel MVC.csproj.CoreCompileInputs.cache
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\obj\Debug\net6.0-windows\Hotel MVC.dll
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\obj\Debug\net6.0-windows\refint\Hotel MVC.dll
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\obj\Debug\net6.0-windows\Hotel MVC.pdb
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\obj\Debug\net6.0-windows\Hotel MVC.genruntimeconfig.cache
+C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\obj\Debug\net6.0-windows\ref\Hotel MVC.dll
