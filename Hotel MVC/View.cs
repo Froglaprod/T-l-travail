@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Hotel_MVC
 {
-    internal class View
+    public class View
     {
     }
 }

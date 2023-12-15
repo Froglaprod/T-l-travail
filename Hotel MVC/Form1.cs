@@ -2,6 +2,11 @@ namespace Hotel_MVC
 {
     public partial class Form1 : Form
     {
+
+        private Controller controller;
+
+        public Controller Controller { get => controller; set => controller = value; }
+
         public Form1()
         {
             InitializeComponent();
