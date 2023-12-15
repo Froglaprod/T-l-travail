@@ -18,11 +18,11 @@ namespace Hotel_MVC
         {
             if(Model.Process(Inscription))
             {
-                
+                View.Success(" Opération Réussi");
             }
             else
             {
-
+                View.Error(" Opération échoué");
             }
         }
     }

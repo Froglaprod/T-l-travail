@@ -15,10 +15,20 @@ namespace Hotel_MVC
 
         public bool Process(Stockage Inscription)
         {
-            File.WriteAllText("Insciption.txt", JsonSerializer.Serialize(Inscription));
-            MessageBox.Show("Inscription réussi !");
+            // Gestion d'erreur de remplissage des champs
+            if (Inscription.NumberNight < 5) 
+            {
+                return false;
+            }
+            else
+            {
+                File.WriteAllText("Insciption.txt", JsonSerializer.Serialize(Inscription));
+                MessageBox.Show("Inscription réussi !");
+                return true;
+            }
+           
 
-            return true;
+           
         }
     }
 }
