@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.Json;
 
 namespace Hotel_MVC
 {
@@ -14,6 +15,7 @@ namespace Hotel_MVC
 
         public void Process(Stockage Inscription)
         {
+            File.WriteAllText("Insciption.txt", JsonSerializer.Serialize(Inscription));
             MessageBox.Show("Inscription réussi !");
         }
     }
