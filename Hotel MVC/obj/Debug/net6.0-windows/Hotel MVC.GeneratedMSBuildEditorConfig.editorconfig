@@ -1,6 +1,6 @@
 is_global = true
 build_property.ApplicationManifest = 
-build_property.StartupObject = Sub Main
+build_property.StartupObject = 
 build_property.ApplicationDefaultFont = 
 build_property.ApplicationHighDpiMode = 
 build_property.ApplicationUseCompatibleTextRendering = 
@@ -13,5 +13,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = MVCHotel
-build_property.ProjectDir = C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\MVCHotel\
+build_property.RootNamespace = Hotel_MVC
+build_property.ProjectDir = C:\Users\botte\OneDrive\Documents\GitHub\T-l-travail\Hotel MVC\

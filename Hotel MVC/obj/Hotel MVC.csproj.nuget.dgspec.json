@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\botte\\OneDrive\\Documents\\GitHub\\T-l-travail\\MVCHotel\\MVCHotel.vbproj": {}
+    "C:\\Users\\botte\\OneDrive\\Documents\\GitHub\\T-l-travail\\Hotel MVC\\Hotel MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\botte\\OneDrive\\Documents\\GitHub\\T-l-travail\\MVCHotel\\MVCHotel.vbproj": {
+    "C:\\Users\\botte\\OneDrive\\Documents\\GitHub\\T-l-travail\\Hotel MVC\\Hotel MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\botte\\OneDrive\\Documents\\GitHub\\T-l-travail\\MVCHotel\\MVCHotel.vbproj",
-        "projectName": "MVCHotel",
-        "projectPath": "C:\\Users\\botte\\OneDrive\\Documents\\GitHub\\T-l-travail\\MVCHotel\\MVCHotel.vbproj",
+        "projectUniqueName": "C:\\Users\\botte\\OneDrive\\Documents\\GitHub\\T-l-travail\\Hotel MVC\\Hotel MVC.csproj",
+        "projectName": "Hotel MVC",
+        "projectPath": "C:\\Users\\botte\\OneDrive\\Documents\\GitHub\\T-l-travail\\Hotel MVC\\Hotel MVC.csproj",
         "packagesPath": "C:\\Users\\botte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\botte\\OneDrive\\Documents\\GitHub\\T-l-travail\\MVCHotel\\obj\\",
+        "outputPath": "C:\\Users\\botte\\OneDrive\\Documents\\GitHub\\T-l-travail\\Hotel MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\botte\\AppData\\Roaming\\NuGet\\NuGet.Config",
