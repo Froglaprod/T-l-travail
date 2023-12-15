@@ -13,9 +13,9 @@ namespace Hotel_MVC
 
         public Controller Controller { get => _controller; set => _controller = value; }
 
+        // Gestion d'erreur de remplissage des champs
         public bool Process(Stockage Inscription)
         {
-            // Gestion d'erreur de remplissage des champs
             if (Inscription.NumberNight < 5) 
             {
                 return false;

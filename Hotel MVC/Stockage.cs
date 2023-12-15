@@ -8,6 +8,7 @@ namespace Hotel_MVC
 {
     public class Stockage
     {
+        // Variables de stockage des données rentrées
         private DateTime arrivate;
         private int numberNight;
         private string info;

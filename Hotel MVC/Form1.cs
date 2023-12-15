@@ -59,6 +59,7 @@ namespace Hotel_MVC
             MessageBox.Show(message, "Réussi", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
         }
 
+        //Envoie des données au Stockage
         private void button1_Click(object sender, EventArgs e)
         {
             Stockage Inscription = new Stockage();
