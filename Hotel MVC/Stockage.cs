@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Hotel_MVC
 {
-    internal class Stockage
+    public class Stockage
     {
+        private DateTime arrivate;
+        private int numberNight;
+        private string info;
+
+        public DateTime Arrivate { get => arrivate; set => arrivate = value; }
+        public int NumberNight { get => numberNight; set => numberNight = value; }
+        public string Info { get => info; set => info = value; }
     }
 }

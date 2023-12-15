@@ -12,7 +12,7 @@ namespace Hotel_MVC
 
         public Controller Controller { get => _controller; set => _controller = value; }
 
-        public void Process()
+        public void Process(Stockage Inscription)
         {
             MessageBox.Show("Inscription réussi !");
         }

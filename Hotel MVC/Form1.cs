@@ -49,7 +49,12 @@ namespace Hotel_MVC
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Controller.Process();
+            Stockage Inscription = new Stockage();
+            Inscription.Arrivate = this.dateTimePicker1.Value;
+            Inscription.NumberNight = (int)this.numericUpDown1.Value;
+            Inscription.Info= this.textBox1.Text;
+
+            Controller.Process(Inscription);
         }
     }
 }

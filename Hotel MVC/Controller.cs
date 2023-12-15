@@ -14,9 +14,9 @@ namespace Hotel_MVC
         public Model Model { get => model; set => model = value; }
         public Form1 View { get => view; set => view = value; }
 
-        public void Process()
+        public void Process(Stockage Inscription)
         {
-            Model.Process();
+            Model.Process(Inscription);
         }
     }
 }
