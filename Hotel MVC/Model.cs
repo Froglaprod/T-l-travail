@@ -11,5 +11,10 @@ namespace Hotel_MVC
         private Controller _controller;
 
         public Controller Controller { get => _controller; set => _controller = value; }
+
+        public void Process()
+        {
+            MessageBox.Show("Inscription réussi !");
+        }
     }
 }
