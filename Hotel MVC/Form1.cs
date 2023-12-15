@@ -47,6 +47,18 @@ namespace Hotel_MVC
 
         }
 
+        // Affichage message erreur
+        public void Error(string message)
+        {
+            MessageBox.Show(message, "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        }
+
+        // Affichage message réussi
+        public void Success(string message)
+        {
+            MessageBox.Show(message, "Réussi", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             Stockage Inscription = new Stockage();

@@ -16,7 +16,14 @@ namespace Hotel_MVC
 
         public void Process(Stockage Inscription)
         {
-            Model.Process(Inscription);
+            if(Model.Process(Inscription))
+            {
+                
+            }
+            else
+            {
+
+            }
         }
     }
 }

@@ -13,10 +13,12 @@ namespace Hotel_MVC
 
         public Controller Controller { get => _controller; set => _controller = value; }
 
-        public void Process(Stockage Inscription)
+        public bool Process(Stockage Inscription)
         {
             File.WriteAllText("Insciption.txt", JsonSerializer.Serialize(Inscription));
             MessageBox.Show("Inscription réussi !");
+
+            return true;
         }
     }
 }
